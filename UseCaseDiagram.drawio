@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:55:00.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="1cgBe3WMR1WEYmsq9Qc1" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:58:59.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="gCfp4YKwUKWA2qJZdCH6" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
-    <mxGraphModel dx="1085" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,9 @@
         <mxCell id="qMnpre456dZbhYS8tqiJ-6" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=27;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4ABA9gQAK2XV4W80JZJ-1" target="z4ABA9gQAK2XV4W80JZJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="swKxZh92KxvjyOnFSqCl-2" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=27;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="z4ABA9gQAK2XV4W80JZJ-1" target="swKxZh92KxvjyOnFSqCl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-1" value="Pengurus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
         </mxCell>
@@ -191,6 +194,9 @@
             <mxPoint x="515" y="315" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="swKxZh92KxvjyOnFSqCl-1" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="360" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
