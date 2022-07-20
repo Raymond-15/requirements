@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:49:52.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="2MU57v-P5_2Ssh8HzvTC" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:50:42.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="8HPU8j-5cv7nt38Cutja" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0q7Ql4SBlpcZW3aKY-bH" name="Page-3">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           <mxGeometry x="355" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-6" value="Menghapus jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="480" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-8" value="Memilih lokasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="140" height="70" as="geometry" />
