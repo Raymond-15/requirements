@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:43:52.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="sa7RtVvmt6ECsMXuMjXJ" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:44:24.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="XMvqkGuhT2LkWprV7S_G" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jIE8mIxhrSkIf84SkjbB-2" value="Cari nama jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jIE8mIxhrSkIf84SkjbB-2" value="Cari nama jemaat /&amp;nbsp;&lt;br&gt;lokasi kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jIE8mIxhrSkIf84SkjbB-3" value="Pilih marker lokasi &lt;br&gt;dipeta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
