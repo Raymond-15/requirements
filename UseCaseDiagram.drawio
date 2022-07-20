@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T15:00:35.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="ZJcoz0N2Gn9qtQDDqfvi" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T15:01:30.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="cZ3gF0dLAwDU6tyPYgag" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,16 @@
         </mxCell>
         <mxCell id="5i8q8Ae321yIFf5_sVQl-34" value="Masyarakat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSwljcfRwf5qk225oI1l-2" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;jumpStyle=arc;jumpSize=27;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="5i8q8Ae321yIFf5_sVQl-8" target="5i8q8Ae321yIFf5_sVQl-6">
+          <mxGeometry x="-0.2" y="-5" width="160" relative="1" as="geometry">
+            <mxPoint x="675" y="330" as="sourcePoint" />
+            <mxPoint x="675" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="340" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
