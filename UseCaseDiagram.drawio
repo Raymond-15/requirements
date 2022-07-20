@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T15:00:04.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="vFYaC8iUEhMx1b2ft31P" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T15:00:35.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="ZJcoz0N2Gn9qtQDDqfvi" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,6 +197,12 @@
         </mxCell>
         <mxCell id="swKxZh92KxvjyOnFSqCl-1" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="swKxZh92KxvjyOnFSqCl-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;jumpStyle=arc;jumpSize=27;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4ABA9gQAK2XV4W80JZJ-2" target="swKxZh92KxvjyOnFSqCl-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590.0812932590595" y="160.463686517165" as="sourcePoint" />
+            <mxPoint x="529.9187067409357" y="129.53631348283284" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
