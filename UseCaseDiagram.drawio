@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:47:21.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="rKl8tkoYI2ZjfhkLmTQu" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:48:48.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="WkQxJGaib-ijWo0R_TSS" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
-    <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="5i8q8Ae321yIFf5_sVQl-1" value="Jemaat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsODkWYxD9DWkUbhR6N2-1" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=27;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5i8q8Ae321yIFf5_sVQl-4" target="5i8q8Ae321yIFf5_sVQl-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5i8q8Ae321yIFf5_sVQl-4" value="Daftar &lt;br&gt;Jemaat baru" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="130" width="110" height="70" as="geometry" />
