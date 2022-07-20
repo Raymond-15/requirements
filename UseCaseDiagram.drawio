@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:50:42.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="8HPU8j-5cv7nt38Cutja" version="20.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:55:00.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="1cgBe3WMR1WEYmsq9Qc1" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,20 +146,23 @@
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-1" value="Pengurus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oRIM--aJrBusQifgm0hL-1" value="Manajemen Jadwal" style="html=1;fillColor=none;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="420" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="30" width="140" height="70" as="geometry" />
+          <mxGeometry x="320" y="70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-3" value="Merubah status aktif&lt;br&gt;jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="130" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-4" value="Menambah jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="260" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-5" value="Merubah jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-6" value="Menghapus jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="480" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z4ABA9gQAK2XV4W80JZJ-8" value="Memilih lokasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="140" height="70" as="geometry" />
@@ -174,6 +177,19 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="570.5025253169417" y="340.25126265847086" as="sourcePoint" />
             <mxPoint x="505" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRIM--aJrBusQifgm0hL-2" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;jumpStyle=arc;jumpSize=27;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4ABA9gQAK2XV4W80JZJ-3" target="z4ABA9gQAK2XV4W80JZJ-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570.0812932590552" y="340.46368651716284" as="sourcePoint" />
+            <mxPoint x="505" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRIM--aJrBusQifgm0hL-3" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;jumpStyle=arc;jumpSize=27;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRIM--aJrBusQifgm0hL-1" target="z4ABA9gQAK2XV4W80JZJ-2">
+          <mxGeometry x="0.3702" y="2" width="160" relative="1" as="geometry">
+            <mxPoint x="580.0812932590552" y="350.46368651716284" as="sourcePoint" />
+            <mxPoint x="515" y="315" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
