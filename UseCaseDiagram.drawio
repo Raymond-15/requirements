@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:37:06.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="AcHbAU-d16ixp5OOxJ4M" version="20.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:43:52.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="sa7RtVvmt6ECsMXuMjXJ" version="20.1.2" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
     <mxGraphModel dx="1085" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,6 +115,41 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="379.4974746830583" y="239.74873734152914" as="sourcePoint" />
             <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0q7Ql4SBlpcZW3aKY-bH" name="Page-3">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-1" value="Pengurus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-3" value="Merubah status aktif&lt;br&gt;jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-4" value="Menambah jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-5" value="Merubah jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-6" value="Menghapus jadwal&lt;br&gt;kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-8" value="Memilih lokasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z4ABA9gQAK2XV4W80JZJ-9" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;jumpStyle=arc;jumpSize=27;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4ABA9gQAK2XV4W80JZJ-8" target="z4ABA9gQAK2XV4W80JZJ-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
