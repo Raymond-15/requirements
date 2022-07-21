@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T03:21:51.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="tZO8m-th3rGHJjHln0xG" version="20.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-21T03:22:46.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="L0C0XbrEF9Cjp-84R3ec" version="20.1.3" type="github" pages="3">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="723" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="EsIJhds1d-KigD9A_AdU-1" value="0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsIJhds1d-KigD9A_AdU-2" value="Lokasi kegiatan gereja" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="EsIJhds1d-KigD9A_AdU-1">
+        <mxCell id="EsIJhds1d-KigD9A_AdU-2" value="SIG Jemaat" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="EsIJhds1d-KigD9A_AdU-1">
           <mxGeometry y="26" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nhHC3x_4HSGcivYF59PV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nhHC3x_4HSGcivYF59PV-9" target="nhHC3x_4HSGcivYF59PV-17">
@@ -189,7 +189,7 @@
         <mxCell id="S9NvUsS77nWQOYYDdcgV-4" value="0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S9NvUsS77nWQOYYDdcgV-5" value="SIG Pemetaan &#xa;Lokasi Jemaat" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="S9NvUsS77nWQOYYDdcgV-4">
+        <mxCell id="S9NvUsS77nWQOYYDdcgV-5" value="SIG Jemaat" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="S9NvUsS77nWQOYYDdcgV-4">
           <mxGeometry y="26" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="S9NvUsS77nWQOYYDdcgV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9NvUsS77nWQOYYDdcgV-8" target="S9NvUsS77nWQOYYDdcgV-16">
