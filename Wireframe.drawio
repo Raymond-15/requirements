@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T06:51:27.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="1Uvgh6SxNj6EYqMXSxbi" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-23T06:54:30.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="vta_DbAv9QOEyDfyz6bY" version="20.2.0" type="github" pages="9">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="2420" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1729" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="395" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="140" width="530" height="60" as="geometry" />
+          <mxGeometry x="160" y="140" width="590" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-17" value="" style="group" vertex="1" connectable="0" parent="QE1ceX6tZlG83q3leU7i-9">
-          <mxGeometry width="530" height="60" as="geometry" />
+          <mxGeometry width="590" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QE1ceX6tZlG83q3leU7i-17">
           <mxGeometry width="530" height="60" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-6" value="pilihan menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="QE1ceX6tZlG83q3leU7i-17">
           <mxGeometry x="290" y="15" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5R11sSDKuHww2sZU64Ss-1" value="Masuk" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=0;" vertex="1" parent="QE1ceX6tZlG83q3leU7i-17">
+          <mxGeometry x="420" y="17.5" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-24" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=100;fillColor2=#99ddff;strokeColor2=none;direction=north;sketch=0;fontSize=37;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="20" height="350" as="geometry" />
@@ -53,6 +56,9 @@
         </mxCell>
         <mxCell id="xJkJOXk_-eDxV_ymqDWZ-6" value="pilihan menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="xJkJOXk_-eDxV_ymqDWZ-3">
           <mxGeometry x="290" y="15" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9_Tt-e1FEJ40fWf2l1z-1" value="Masuk" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=0;" vertex="1" parent="xJkJOXk_-eDxV_ymqDWZ-3">
+          <mxGeometry x="420" y="17.5" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="xJkJOXk_-eDxV_ymqDWZ-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=57.868;fillColor2=#99ddff;strokeColor2=none;direction=north;sketch=0;fontSize=37;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="20" height="350" as="geometry" />
@@ -106,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PCYsP7AjJH-Hip-2le-f" name="Page-3">
-    <mxGraphModel dx="1729" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +133,9 @@
         </mxCell>
         <mxCell id="J4_hWsgVEzsRI1bZrlNL-6" value="pilihan menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="J4_hWsgVEzsRI1bZrlNL-3">
           <mxGeometry x="290" y="15" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1URG2lvE5JUxLTI1wnck-1" value="Masuk" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=0;" vertex="1" parent="J4_hWsgVEzsRI1bZrlNL-3">
+          <mxGeometry x="420" y="17.5" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="J4_hWsgVEzsRI1bZrlNL-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=4.795;fillColor2=#99ddff;strokeColor2=none;direction=north;sketch=0;fontSize=37;" vertex="1" parent="1">
           <mxGeometry x="650" y="240" width="20" height="350" as="geometry" />
@@ -421,7 +430,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kycmt0yMzQjQmRQDTYjd" name="Page-9">
-    <mxGraphModel dx="1729" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
