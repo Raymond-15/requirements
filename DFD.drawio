@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T03:22:09.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="kmvS1SznMxPAo72rbt0K" version="20.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-23T03:27:37.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="xItf0W9W52DujzaFq9LK" version="20.2.0" type="github" pages="4">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="834" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="McviMTBZzOBbi-73SOa6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g4tLgIQyXxJCxn4Pl7X_-1">
+        <mxCell id="McviMTBZzOBbi-73SOa6-2" value="Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g4tLgIQyXxJCxn4Pl7X_-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="145" as="targetPoint" />
           </mxGeometry>
@@ -334,10 +334,20 @@
           <mxGeometry y="30" width="136" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rGMGE8C12sJ7jgkL3hqE-1" value="1.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="414" y="230" width="136" height="85" as="geometry" />
+          <mxGeometry x="414" y="240" width="136" height="85" as="geometry" />
         </mxCell>
         <mxCell id="rGMGE8C12sJ7jgkL3hqE-2" value="Pendaftaran jemaat" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="rGMGE8C12sJ7jgkL3hqE-1">
           <mxGeometry y="30" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="z56I-wLQw1NUy-ZIRkhM-3" value="Status jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z56I-wLQw1NUy-ZIRkhM-2" target="3wAkGvM8sDkM5sEt_U1H-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="482" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z56I-wLQw1NUy-ZIRkhM-2" value="Jemaat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
