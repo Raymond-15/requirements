@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T15:03:13.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="fhgGzZ1GpX6zmbohuJh_" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-23T15:06:29.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="Ssi2QhJv_gzvv98r8F24" version="20.2.0" type="github" pages="7">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -711,7 +711,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oxKfixnA8mIcMmVKrtyj" name="Page-6">
-    <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,17 +759,6 @@
             <mxPoint x="257.72" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGLPOvqj-PGT2WEDphEK-25" value="Pilih kegiatan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.669;exitY=0.996;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="oGLPOvqj-PGT2WEDphEK-1" target="oGLPOvqj-PGT2WEDphEK-12" edge="1">
-          <mxGeometry x="0.5977" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="168" y="196" />
-              <mxPoint x="168" y="331" />
-            </Array>
-            <mxPoint x="-1" as="offset" />
-            <mxPoint x="138" y="299" as="sourcePoint" />
-            <mxPoint x="293" y="332.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oGLPOvqj-PGT2WEDphEK-26" value="Pilih kegiatan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oGLPOvqj-PGT2WEDphEK-1" target="oGLPOvqj-PGT2WEDphEK-14" edge="1">
           <mxGeometry x="0.7242" relative="1" as="geometry">
             <Array as="points">
@@ -786,7 +775,7 @@
         <mxCell id="oQnoR3PpRiouaPRcViaO-1" value="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="70" width="136" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="oQnoR3PpRiouaPRcViaO-2" value="Manajemen data" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oQnoR3PpRiouaPRcViaO-1">
+        <mxCell id="oQnoR3PpRiouaPRcViaO-2" value="Login" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oQnoR3PpRiouaPRcViaO-1">
           <mxGeometry y="30" width="136" height="55" as="geometry" />
         </mxCell>
       </root>
