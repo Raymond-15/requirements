@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T03:45:23.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="i5r2fAZxMMgs2yD49bm2" version="20.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-23T04:04:51.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="GdwomYqEAhtvq8nsKQDs" version="20.2.0" type="github" pages="4">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="834" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -380,18 +380,22 @@
           <mxGeometry x="-0.597" y="25" relative="1" as="geometry">
             <mxPoint x="139.9999999999999" y="305" as="sourcePoint" />
             <mxPoint x="-50" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="168" />
+              <mxPoint x="200" y="304" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_8PZbFFS10sJGHiXnbVY-2" value="Lokasi jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="a3SG_Y6R_U81kPAq7Uij-2" target="g4tLgIQyXxJCxn4Pl7X_-1">
-          <mxGeometry x="-0.4269" relative="1" as="geometry">
+        <mxCell id="_8PZbFFS10sJGHiXnbVY-2" value="Lokasi jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.988;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="a3SG_Y6R_U81kPAq7Uij-2" target="g4tLgIQyXxJCxn4Pl7X_-1">
+          <mxGeometry x="-0.7193" y="9" relative="1" as="geometry">
             <mxPoint x="30" y="300" as="sourcePoint" />
             <mxPoint x="69" y="436.25" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_8PZbFFS10sJGHiXnbVY-4" value="Latitude&lt;br&gt;longitude" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8PZbFFS10sJGHiXnbVY-3" target="a3SG_Y6R_U81kPAq7Uij-2">
-          <mxGeometry x="0.3805" y="-2" relative="1" as="geometry">
+          <mxGeometry x="-0.3242" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -402,6 +406,32 @@
           <mxGeometry x="0.2411" relative="1" as="geometry">
             <mxPoint x="389" y="425.02857142857135" as="sourcePoint" />
             <mxPoint x="437" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-1" value="4.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="312" y="380" width="136" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-2" value="Cari lokasi kegiatan" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ZVBcWLhPLeO5nrpOOfRA-1">
+          <mxGeometry y="30" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVBcWLhPLeO5nrpOOfRA-3" target="ZVBcWLhPLeO5nrpOOfRA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-3" value="Jadwal&lt;br&gt;kegiatan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-5" value="Nama kegiatan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.37;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g4tLgIQyXxJCxn4Pl7X_-1" target="ZVBcWLhPLeO5nrpOOfRA-2">
+          <mxGeometry x="-0.0137" y="33" relative="1" as="geometry">
+            <mxPoint x="140" y="353.75" as="sourcePoint" />
+            <mxPoint x="90" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVBcWLhPLeO5nrpOOfRA-6" value="Lokasi&amp;nbsp; kegiatan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.131;entryY=0.977;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVBcWLhPLeO5nrpOOfRA-2" target="g4tLgIQyXxJCxn4Pl7X_-1">
+          <mxGeometry x="-0.205" relative="1" as="geometry">
+            <mxPoint x="90" y="403.75" as="sourcePoint" />
+            <mxPoint x="40" y="240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
