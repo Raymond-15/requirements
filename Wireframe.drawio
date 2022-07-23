@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T05:24:41.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="i69e53_YAgX5MPs7APSK" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T05:25:00.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="oNR7hsiaHrneDL2m_lb7" version="20.2.0" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1344" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,10 +92,10 @@
           <mxGeometry x="625" y="810" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1140" width="530" height="410" as="geometry" />
+          <mxGeometry x="230" y="1090" width="530" height="410" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="1140" width="530" height="60" as="geometry" />
+          <mxGeometry x="230" y="1090" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-49" value="" style="group" vertex="1" connectable="0" parent="QE1ceX6tZlG83q3leU7i-48">
           <mxGeometry width="530" height="60" as="geometry" />
@@ -110,13 +110,13 @@
           <mxGeometry x="290" y="15" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=4.795;fillColor2=#99ddff;strokeColor2=none;direction=north;sketch=0;fontSize=37;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1200" width="20" height="350" as="geometry" />
+          <mxGeometry x="740" y="1150" width="20" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-68" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1295" width="430" height="160" as="geometry" />
+          <mxGeometry x="280" y="1245" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QE1ceX6tZlG83q3leU7i-69" value="Informasi total jemaat dan lokasi terintegrasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=37;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="300" y="1310" width="390" height="130" as="geometry" />
+          <mxGeometry x="300" y="1260" width="390" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
