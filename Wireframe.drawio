@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T05:19:30.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="ropeDpfMC7XKiAhV0w63" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T05:21:52.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="1XYKnBk0uB01cTTjDYd4" version="20.2.0" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1100" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -61,17 +61,35 @@
         <mxCell id="QE1ceX6tZlG83q3leU7i-29" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=0;fontSize=37;" vertex="1" parent="1">
           <mxGeometry x="650" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QE1ceX6tZlG83q3leU7i-31" value="Jadwal 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="265" y="810" width="70" height="30" as="geometry" />
+        <mxCell id="QE1ceX6tZlG83q3leU7i-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=0;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="355" y="860" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QE1ceX6tZlG83q3leU7i-32" value="Jadwal 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="395" y="810" width="70" height="30" as="geometry" />
+        <mxCell id="QE1ceX6tZlG83q3leU7i-36" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=0;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="475" y="860" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QE1ceX6tZlG83q3leU7i-33" value="Jadwal 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="515" y="810" width="70" height="30" as="geometry" />
+        <mxCell id="QE1ceX6tZlG83q3leU7i-37" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=0;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="595" y="860" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QE1ceX6tZlG83q3leU7i-34" value="Jadwal 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="635" y="810" width="70" height="30" as="geometry" />
+        <mxCell id="QE1ceX6tZlG83q3leU7i-38" value="Kegiatan 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="330" y="910" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-41" value="Kegiatan 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="450" y="910" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-42" value="Kegiatan 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="910" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-43" value="Kegiatan 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="255" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-44" value="Kegiatan 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="385" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-45" value="Kegiatan 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="505" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1ceX6tZlG83q3leU7i-46" value="Kegiatan 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="625" y="810" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
