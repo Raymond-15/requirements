@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T15:53:30.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="2J53yIzUZyL5WlvXNEuZ" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-23T15:57:54.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="1_JJx_6qNb6PZf_YhVRP" version="20.2.0" type="github" pages="7">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -711,7 +711,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oxKfixnA8mIcMmVKrtyj" name="Page-6">
-    <mxGraphModel dx="834" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,7 +734,7 @@
           <mxGeometry y="30" width="136" height="55" as="geometry" />
         </mxCell>
         <mxCell id="oGLPOvqj-PGT2WEDphEK-24" value="Data jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="oGLPOvqj-PGT2WEDphEK-1" target="oGLPOvqj-PGT2WEDphEK-10" edge="1">
-          <mxGeometry x="0.3956" relative="1" as="geometry">
+          <mxGeometry x="0.2696" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="183" y="230" />
             </Array>
