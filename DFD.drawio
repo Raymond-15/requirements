@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T16:12:50.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="ucgFH8ORuXBzjkZtWhUQ" version="20.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-23T16:13:19.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="IxHf0ZYxP_vkvzLSuopX" version="20.2.0" type="github" pages="7">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -804,12 +804,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8aJ5yo-CjI6w5vcZPwQV" name="Page-7">
-    <mxGraphModel dx="691" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vhwn2HvLnKigDY_7AxZT-1" value="Jemaat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="166" width="100" height="50" as="geometry" />
+          <mxGeometry x="150" y="166" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vhwn2HvLnKigDY_7AxZT-2" value="Jemaat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="612" y="190" width="60" height="60" as="geometry" />
@@ -820,10 +820,10 @@
         <mxCell id="Vhwn2HvLnKigDY_7AxZT-4" value="Manajemen data" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Vhwn2HvLnKigDY_7AxZT-3">
           <mxGeometry y="30" width="136" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Vhwn2HvLnKigDY_7AxZT-7" value="Data jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vhwn2HvLnKigDY_7AxZT-1" target="Vhwn2HvLnKigDY_7AxZT-4">
-          <mxGeometry x="0.2696" relative="1" as="geometry">
+        <mxCell id="Vhwn2HvLnKigDY_7AxZT-7" value="Data jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vhwn2HvLnKigDY_7AxZT-1" target="Vhwn2HvLnKigDY_7AxZT-4">
+          <mxGeometry x="0.1656" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="185" y="250" />
+              <mxPoint x="200" y="250" />
             </Array>
             <mxPoint as="offset" />
             <mxPoint x="90.01999999999995" y="326.4999999999999" as="sourcePoint" />
@@ -856,7 +856,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vhwn2HvLnKigDY_7AxZT-14" value="Email &amp;amp;&lt;br&gt;Password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhwn2HvLnKigDY_7AxZT-1" target="Vhwn2HvLnKigDY_7AxZT-10">
+        <mxCell id="Vhwn2HvLnKigDY_7AxZT-14" value="Email &amp;amp;&lt;br&gt;Password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhwn2HvLnKigDY_7AxZT-1" target="Vhwn2HvLnKigDY_7AxZT-10">
           <mxGeometry x="0.2798" relative="1" as="geometry">
             <mxPoint x="248" y="90" as="targetPoint" />
             <mxPoint x="52" y="11.25" as="sourcePoint" />
