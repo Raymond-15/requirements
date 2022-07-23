@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T06:24:21.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="m9Hbv4befQLxspkNnCxZ" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-23T06:29:48.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="libkKg0HHzH8RfHmpJB3" version="20.2.0" type="github" pages="7">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="2420" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="xJkJOXk_-eDxV_ymqDWZ-21" value="Kegiatan 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="555" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K_4yyYERyqNGvfwsvbNY-1" value="Jadwal Kegiatan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="331" y="490" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -332,6 +335,14 @@
         <mxCell id="poQ9oGjLGPg4WKKm8NbC-22" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;sketch=0;fontSize=37;" vertex="1" parent="poQ9oGjLGPg4WKKm8NbC-8">
           <mxGeometry x="30" y="210" width="278.1818181818182" height="25" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BdZGTOCRlWh7mw5ugZS6" name="Page-7">
+    <mxGraphModel dx="1424" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
