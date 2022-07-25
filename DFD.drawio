@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T07:24:18.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="n-i1aUraa35-0CUKsZlP" version="20.2.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-07-25T07:27:34.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="HTca7-LUm182OKKIE3Zi" version="20.2.0" type="github" pages="14">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1311,12 +1311,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyWlI9jioRn6TmDYcpZU" name="Page-14">
-    <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zFbkgvI7Wc4OSFJiCrCg-3" value="Jemaat" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="405" width="100" height="50" as="geometry" />
+          <mxGeometry x="250" y="465" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zFbkgvI7Wc4OSFJiCrCg-9" value="Jemaat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="570" y="460" width="60" height="60" as="geometry" />
@@ -1326,17 +1326,6 @@
         </mxCell>
         <mxCell id="zFbkgvI7Wc4OSFJiCrCg-14" value="Cari lokasi jemaat" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zFbkgvI7Wc4OSFJiCrCg-13" vertex="1">
           <mxGeometry y="30" width="136" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="zFbkgvI7Wc4OSFJiCrCg-15" value="Nama jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zFbkgvI7Wc4OSFJiCrCg-3" target="zFbkgvI7Wc4OSFJiCrCg-14" edge="1">
-          <mxGeometry x="-0.597" y="25" relative="1" as="geometry">
-            <mxPoint x="309.9999999999999" y="592.5" as="sourcePoint" />
-            <mxPoint x="120" y="577.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="455.5" />
-              <mxPoint x="220" y="591.5" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zFbkgvI7Wc4OSFJiCrCg-16" value="Lokasi jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.988;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="zFbkgvI7Wc4OSFJiCrCg-14" target="zFbkgvI7Wc4OSFJiCrCg-3" edge="1">
           <mxGeometry x="-0.7193" y="9" relative="1" as="geometry">
@@ -1383,6 +1372,13 @@
           <mxGeometry x="-0.205" relative="1" as="geometry">
             <mxPoint x="260" y="691.25" as="sourcePoint" />
             <mxPoint x="210" y="527.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5KfhxrEexB4aRgQPden-1" value="Nama jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.82;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="zFbkgvI7Wc4OSFJiCrCg-14" target="zFbkgvI7Wc4OSFJiCrCg-3">
+          <mxGeometry x="-0.4034" y="-11" relative="1" as="geometry">
+            <mxPoint x="413.31" y="632.44" as="sourcePoint" />
+            <mxPoint x="330" y="530" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
