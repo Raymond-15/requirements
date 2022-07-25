@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T04:03:52.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="mY2whKfx-SaQwGVQc6Ho" version="20.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-25T04:14:38.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="6N8TQVmmFSwIwb5SlKWk" version="20.2.0" type="github" pages="13">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bmYKjRu_ma77VDb_2rv0" name="DFD lvl 2 jemaat">
-    <mxGraphModel dx="1424" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1729" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1155,7 +1155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2b1UttDs3KyGhyLJbVgh" name="Page-12">
-    <mxGraphModel dx="834" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1229,6 +1229,82 @@
               <mxPoint x="520" y="380" />
               <mxPoint x="365" y="380" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Aha_2UFJ0VYREFSRK2D3" name="Page-13">
+    <mxGraphModel dx="1008" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r4dn8ap75o0-htUs5Brb-2" value="Data anggota keluarga" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4dn8ap75o0-htUs5Brb-3" target="r4dn8ap75o0-htUs5Brb-26">
+          <mxGeometry x="0.183" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="202.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-3" value="Jemaat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="405" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-9" value="Jemaat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="172.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-26" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="136" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-27" value="Memasukkan data&#xa;anggota keluarga" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="r4dn8ap75o0-htUs5Brb-26">
+          <mxGeometry y="30" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-28" value="2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="254" y="285" width="136" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-29" value="Merubah data&#xa;lokasi dan diri" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="r4dn8ap75o0-htUs5Brb-28">
+          <mxGeometry y="30" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-30" value="Pilih menu" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r4dn8ap75o0-htUs5Brb-3" target="r4dn8ap75o0-htUs5Brb-29">
+          <mxGeometry x="-0.5227" y="-15" relative="1" as="geometry">
+            <mxPoint x="200" y="415" as="sourcePoint" />
+            <mxPoint x="282" y="212.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="328.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-31" value="Data anggota keluarga" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4dn8ap75o0-htUs5Brb-26" target="r4dn8ap75o0-htUs5Brb-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="425" as="sourcePoint" />
+            <mxPoint x="500" y="197.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="181.5" />
+              <mxPoint x="490" y="181.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-32" value="Data baru jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4dn8ap75o0-htUs5Brb-29" target="r4dn8ap75o0-htUs5Brb-9">
+          <mxGeometry x="-0.1957" y="20" relative="1" as="geometry">
+            <mxPoint x="430" y="257.5" as="sourcePoint" />
+            <mxPoint x="542" y="257.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="314.5" />
+              <mxPoint x="450" y="202.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4dn8ap75o0-htUs5Brb-33" value="Data lama jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.85;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="r4dn8ap75o0-htUs5Brb-9" target="r4dn8ap75o0-htUs5Brb-29">
+          <mxGeometry x="0.1565" relative="1" as="geometry">
+            <mxPoint x="482" y="287.5" as="sourcePoint" />
+            <mxPoint x="594" y="287.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="223.5" />
+              <mxPoint x="480" y="342.5" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
