@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T07:29:59.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="uCsz4aeFGmFnKXK6sYN1" version="20.2.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-07-25T09:57:13.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="reFvl69oFULf8qrHdy_n" version="20.2.0" type="github" pages="14">
   <diagram id="FNYH10jm-mw3mcxP2oJX" name="Page-1">
     <mxGraphModel dx="1210" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
           <mxGeometry y="30" width="136" height="55" as="geometry" />
         </mxCell>
         <mxCell id="zFbkgvI7Wc4OSFJiCrCg-16" value="Lokasi jemaat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.988;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="zFbkgvI7Wc4OSFJiCrCg-14" target="zFbkgvI7Wc4OSFJiCrCg-3" edge="1">
-          <mxGeometry x="-0.7193" y="9" relative="1" as="geometry">
+          <mxGeometry x="-0.4557" relative="1" as="geometry">
             <mxPoint x="200" y="587.5" as="sourcePoint" />
             <mxPoint x="239" y="723.75" as="targetPoint" />
             <mxPoint as="offset" />
