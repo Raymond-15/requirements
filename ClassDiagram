@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T04:52:00.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rM_rT8thEWrdbFrhcxkP" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-26T04:52:40.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="imN5xzEsYRvW84PxMVWA" version="20.8.11" type="github" pages="6">
   <diagram id="YycM7cmSNZMpmhnWpobV" name="Page-1">
     <mxGraphModel dx="717" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,13 +255,6 @@
             <mxPoint x="190" y="280" as="sourcePoint" />
             <mxPoint x="350" y="300" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rMcgZo3xmkDAgP33Yvez-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rMcgZo3xmkDAgP33Yvez-12" target="DANjTzWCK0eyFsDxmtjz-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="335" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rMcgZo3xmkDAgP33Yvez-12" value="Komsel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
