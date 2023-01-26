@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T04:21:37.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oXrfT_gP2mB4B0aBRa_D" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-26T04:33:48.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g9TOwb-vX_ahsD5IpRDY" version="20.8.11" type="github" pages="6">
   <diagram id="YycM7cmSNZMpmhnWpobV" name="Page-1">
-    <mxGraphModel dx="1687" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,38 @@
             <mxPoint x="350" y="300" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-12" value="Komsel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="180" height="254" as="geometry">
+            <mxRectangle x="510" y="320" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-13" value="+ id_waktu : varchar(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-14" value="+ freq : varchar(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="52" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-15" value="+ day_no : varchar(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="80" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-16" value="+ start_date : int(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="108" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-17" value="+ end_date : int(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="134" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-18" value="+ created_at : int(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="160" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-19" value="+ modified_at : int(36)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="186" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="212" width="180" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rMcgZo3xmkDAgP33Yvez-21" value="+ show_data()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rMcgZo3xmkDAgP33Yvez-12">
+          <mxGeometry y="228" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
