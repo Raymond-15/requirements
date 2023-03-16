@@ -1,16 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T10:06:38.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MdRmypT9dIUCW3X9UTOK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T10:15:21.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pJTxFeNaPWE-Om286eZg" version="21.0.6" type="github">
   <diagram name="Page-1" id="l1FUAgqgtJ3iz-9Q3k8D">
     <mxGraphModel dx="1434" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kkLH6AYHwWaxbkL67oAp-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="200" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="kkLH6AYHwWaxbkL67oAp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="399" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="206" y="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kkLH6AYHwWaxbkL67oAp-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="kkLH6AYHwWaxbkL67oAp-1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="160" as="targetPoint" />
+            <mxPoint x="221" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kkLH6AYHwWaxbkL67oAp-4" value="Masukkan nama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="210" width="109" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
