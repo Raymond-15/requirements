@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T16:30:44.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="U7DIGgPcYdjFW7d87pkM" version="21.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-20T16:33:06.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gvLnOYiUS8u6bS4S5_8b" version="21.0.8" type="github" pages="3">
   <diagram id="PjaSomSAxZqeQff5UeBx" name="Page-1">
-    <mxGraphModel dx="1195" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,12 @@
         </mxCell>
         <mxCell id="5i8q8Ae321yIFf5_sVQl-34" value="Masyarakat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="135" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEfEPlutwUP2fI0mQ0NT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="kEfEPlutwUP2fI0mQ0NT-3" target="5i8q8Ae321yIFf5_sVQl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEfEPlutwUP2fI0mQ0NT-3" value="merubah lokasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
