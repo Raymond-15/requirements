@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T06:42:43.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="Nbgjkrpa4VqILNIfumNE" type="github"><diagram name="Page-1" id="73gEycGcmoW9e9DTmOMe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-20T06:46:49.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iSaR9FV6-eSZdHM_pLA-" version="21.0.8" type="github">
+  <diagram name="Page-1" id="73gEycGcmoW9e9DTmOMe">
+    <mxGraphModel dx="819" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="180" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Sistem&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-3" target="5ZCJU8kU0FX98-NaGXSL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="215" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-4" target="5ZCJU8kU0FX98-NaGXSL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-4" value="Memilih menu login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-5" target="5ZCJU8kU0FX98-NaGXSL-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="310" />
+              <mxPoint x="230" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-5" value="menampilkan tampilan login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-8" target="5ZCJU8kU0FX98-NaGXSL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-8" value="mengisi email dan password" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-11" target="5ZCJU8kU0FX98-NaGXSL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;memvalidasi email dan password&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-13" target="5ZCJU8kU0FX98-NaGXSL-15">
+          <mxGeometry x="-0.5295" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-13" target="5ZCJU8kU0FX98-NaGXSL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-13" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-15" target="5ZCJU8kU0FX98-NaGXSL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-15" value="menampilkan pesan kesalahan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZCJU8kU0FX98-NaGXSL-18" target="5ZCJU8kU0FX98-NaGXSL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;menampilkan menu utama&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZCJU8kU0FX98-NaGXSL-20" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="405" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
