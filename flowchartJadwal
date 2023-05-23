@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T14:31:39.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tlYNj1RgiXB97eFHh25L" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T15:16:41.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gswS0XInSvObx1SzPbcO" version="21.2.3" type="github">
   <diagram name="Page-1" id="oy3SZ_qq4PSQN_TCgOJi">
     <mxGraphModel dx="1420" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uapUELUwxaUa89deznq7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uapUELUwxaUa89deznq7-2" target="uapUELUwxaUa89deznq7-21">
+        <mxCell id="uapUELUwxaUa89deznq7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uapUELUwxaUa89deznq7-2" target="uapUELUwxaUa89deznq7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uapUELUwxaUa89deznq7-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="380.65999999999997" y="40" width="66.67" height="40" as="geometry" />
+          <mxGeometry x="379.99999999999994" y="150" width="66.67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uapUELUwxaUa89deznq7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uapUELUwxaUa89deznq7-3" target="uapUELUwxaUa89deznq7-4">
           <mxGeometry relative="1" as="geometry" />
@@ -75,12 +75,6 @@
         </mxCell>
         <mxCell id="uapUELUwxaUa89deznq7-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Tampilkan &lt;br&gt;peta lokasi kegiatan&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="353.99999999999994" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uapUELUwxaUa89deznq7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uapUELUwxaUa89deznq7-21" target="uapUELUwxaUa89deznq7-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uapUELUwxaUa89deznq7-21" value="Siapkan data kegiatan&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uapUELUwxaUa89deznq7-25" value="Selesai&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="750" width="66.67" height="40" as="geometry" />
