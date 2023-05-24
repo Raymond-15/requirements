@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:43:33.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1LOBZhupOxBoVeP_74ZG" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T06:05:04.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yKDIpV6ot6Ws3_5tkLxk" version="21.3.3" type="github">
   <diagram name="Page-1" id="PTw1tPuCzRh_o_odcCJN">
-    <mxGraphModel dx="1420" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-50" target="ZZ9OkddTT0UgGQ9pjFFH-61">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-50" target="ZZ9OkddTT0UgGQ9pjFFH-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="950" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Klik tombol&lt;i&gt; &quot;end&quot;&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="675" y="790" width="90" height="90" as="geometry" />
@@ -162,33 +164,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-61" value="&lt;font face=&quot;Times New Roman&quot;&gt;Klik tombol&lt;i&gt; &quot;geolokasi&quot;&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="675" y="910" width="90" height="90" as="geometry" />
+          <mxGeometry x="675" y="1290" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="840" />
-              <mxPoint x="470" y="610" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-65" target="ZZ9OkddTT0UgGQ9pjFFH-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai interval update lokasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="805" width="120" height="60" as="geometry" />
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai &lt;i&gt;realtime&lt;/i&gt;&lt;br&gt;&amp;nbsp;&lt;i&gt;update&lt;/i&gt; lokasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-67" target="ZZ9OkddTT0UgGQ9pjFFH-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPS Aktif ?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="515" y="910" width="90" height="90" as="geometry" />
+          <mxGeometry x="515" y="1290" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-72" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="379.9999999999999" y="1110" width="66.67" height="40" as="geometry" />
+          <mxGeometry x="224.9999999999999" y="1169" width="66.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-73" target="ZZ9OkddTT0UgGQ9pjFFH-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;Klik tombol&lt;i&gt; &lt;br&gt;&quot;Stop Geolokasi&quot;&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1040" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-75" target="ZZ9OkddTT0UgGQ9pjFFH-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="955" />
+              <mxPoint x="660" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sampai &lt;br&gt;tujuan ?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="515" y="910" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Stop interval update lokasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
