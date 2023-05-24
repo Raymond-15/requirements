@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T06:05:04.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yKDIpV6ot6Ws3_5tkLxk" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T06:05:29.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Tj6-muJ2ZTX4S9mrgPTy" version="21.3.3" type="github">
   <diagram name="Page-1" id="PTw1tPuCzRh_o_odcCJN">
     <mxGraphModel dx="1183" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,6 +184,15 @@
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-73" target="ZZ9OkddTT0UgGQ9pjFFH-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-73" target="ZZ9OkddTT0UgGQ9pjFFH-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="1095" />
+              <mxPoint x="470" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;Klik tombol&lt;i&gt; &lt;br&gt;&quot;Stop Geolokasi&quot;&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="505" y="1040" width="110" height="110" as="geometry" />
         </mxCell>
@@ -195,11 +204,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZ9OkddTT0UgGQ9pjFFH-75" target="ZZ9OkddTT0UgGQ9pjFFH-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sampai &lt;br&gt;tujuan ?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="515" y="910" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZZ9OkddTT0UgGQ9pjFFH-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Stop interval update lokasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
