@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T09:58:21.477Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="am9t0ko0uUCu4wmdq_sa" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T09:58:40.728Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0fGHzOGiqk4Ccb-6qoVx" version="21.6.6" type="github">
   <diagram name="Page-1" id="CB9nziV5Q4L1Sb9hSoo5">
-    <mxGraphModel dx="1304" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="FcDvH5XJAZS7WvfElZCo-22" value="Analitik" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FcDvH5XJAZS7WvfElZCo-19">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcDvH5XJAZS7WvfElZCo-24" value="USER MANAGEMENT" style="swimlane;startSize=0;fontSize=16;rounded=1;swimlaneLine=1;fillStyle=solid;fillColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="FcDvH5XJAZS7WvfElZCo-24" value="USER MANAGEMENT" style="swimlane;startSize=0;fontSize=16;rounded=0;swimlaneLine=1;fillStyle=auto;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="730" y="650" width="790" height="480" as="geometry">
             <mxRectangle x="890" y="590" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
